@@ -1,0 +1,2 @@
+# All-in-1 planner system
+ The software can be used at Hotels, Resorts and other service oriented industries for maintaining records of multiple customers. • Customer needs to fill all required information for generating net payable amount • Dynamic updation and retrieval of records from database from both ends. • Providing an easy to use Graphical User-Interface (GUI) for handling large chunks of data.
